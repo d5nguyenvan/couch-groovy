@@ -1,1 +1,1 @@
-Couch Groovy Source Based on ektorp library
+Couch Groovy Source using ektorp, guava, spring libraries
